@@ -1,0 +1,1204 @@
+fileFormatVersion: 2
+guid: dee10a68fec63d342b0a9b89c3ccb5e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7099527409097773184
+    second: Paleta_0
+  - first:
+      213: 2103734851852232170
+    second: Paleta_1
+  - first:
+      213: 5304784056357282640
+    second: Paleta_2
+  - first:
+      213: 5122232733326263497
+    second: Paleta_3
+  - first:
+      213: 1229279804602096395
+    second: Paleta_4
+  - first:
+      213: 5899735481136087212
+    second: Paleta_5
+  - first:
+      213: 8006264482893774526
+    second: Paleta_6
+  - first:
+      213: 5377111329635178472
+    second: Paleta_7
+  - first:
+      213: 9016594410915096146
+    second: Paleta_8
+  - first:
+      213: -853571571643271855
+    second: Paleta_9
+  - first:
+      213: -9050870417849438038
+    second: Paleta_10
+  - first:
+      213: 2640832902281179351
+    second: Paleta_11
+  - first:
+      213: -5248497787735334421
+    second: Paleta_12
+  - first:
+      213: 881233042783217331
+    second: Paleta_13
+  - first:
+      213: -348298902319098343
+    second: Paleta_14
+  - first:
+      213: 798228207500736168
+    second: Paleta_15
+  - first:
+      213: -3268875651852557910
+    second: Paleta_16
+  - first:
+      213: -1303069054861584895
+    second: Paleta_17
+  - first:
+      213: 5002208159194464956
+    second: Paleta_18
+  - first:
+      213: -3247822202660716496
+    second: Paleta_19
+  - first:
+      213: 7017064089338728887
+    second: Paleta_20
+  - first:
+      213: -5692726474529620106
+    second: Paleta_21
+  - first:
+      213: -2989742254599119180
+    second: Paleta_22
+  - first:
+      213: 7304305073042215777
+    second: Paleta_23
+  - first:
+      213: 6172126310249037967
+    second: Paleta_24
+  - first:
+      213: -3693787574479780537
+    second: Paleta_25
+  - first:
+      213: 3800872786075087281
+    second: Paleta_26
+  - first:
+      213: 5885016554816845101
+    second: Paleta_27
+  - first:
+      213: -8385478834775939178
+    second: Paleta_28
+  - first:
+      213: -6822763529985446805
+    second: Paleta_29
+  - first:
+      213: -1427028678312563252
+    second: Paleta_30
+  - first:
+      213: -6225461359710827235
+    second: Paleta_31
+  - first:
+      213: 9149549393266717963
+    second: Paleta_32
+  - first:
+      213: -5222767483327954430
+    second: Paleta_33
+  - first:
+      213: -1891780097490071294
+    second: Paleta_34
+  - first:
+      213: 8923091143845875912
+    second: Paleta_35
+  - first:
+      213: -7691765221418937709
+    second: Paleta_36
+  - first:
+      213: 4262976041294935595
+    second: Paleta_37
+  - first:
+      213: -5461673245426300283
+    second: Paleta_38
+  - first:
+      213: -811041106231115475
+    second: Paleta_39
+  - first:
+      213: -1023907766174928047
+    second: Paleta_40
+  - first:
+      213: -1643248176541997079
+    second: Paleta_41
+  - first:
+      213: -2398824182231041993
+    second: Paleta_42
+  - first:
+      213: 8308868420376058140
+    second: Paleta_43
+  - first:
+      213: 548687643468212622
+    second: Paleta_44
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paleta_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0801c6c4096968260800000000000000
+      internalID: 7099527409097773184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: -0.3828926, y: -8.882103}
+        - {x: 3.4776115, y: -4.0746307}
+        - {x: 9, y: 2.3602676}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5e242a3b7f13d10800000000000000
+      internalID: 2103734851852232170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: 3}
+        - {x: 9, y: 3}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e4594ef06e9940800000000000000
+      internalID: 5304784056357282640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: 2.700508}
+        - {x: -4.074627, y: -3.0298538}
+        - {x: 0.7650986, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c44ace3883d51740800000000000000
+      internalID: 5122232733326263497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b9ed228774f0110800000000000000
+      internalID: 1229279804602096395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca082e5792210e150800000000000000
+      internalID: 5899735481136087212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeb5b0d027fb1f60800000000000000
+      internalID: 8006264482893774526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 72
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e712a0e3465f9a40800000000000000
+      internalID: 5377111329635178472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256ed5248d0612d70800000000000000
+      internalID: 9016594410915096146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 0, y: -9}
+        - {x: 0, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155b4d19d218724f0800000000000000
+      internalID: -853571571643271855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa03efbfe49d46280800000000000000
+      internalID: -9050870417849438038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 9}
+        - {x: 0, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d032ab688f16a420800000000000000
+      internalID: 2640832902281179351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1ac9dd1179927b0800000000000000
+      internalID: -5248497787735334421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b62e6f88c4ca3c00800000000000000
+      internalID: 881233042783217331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9169c936ef79a2bf0800000000000000
+      internalID: -348298902319098343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -1.0776901}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a637c55350e31b00800000000000000
+      internalID: 798228207500736168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1a764f9ee92a2d0800000000000000
+      internalID: -3268875651852557910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: -0.25373077, y: -9}
+        - {x: -0.25373077, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106db2b39919aede0800000000000000
+      internalID: -1303069054861584895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2c85561d96b6540800000000000000
+      internalID: 5002208159194464956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0.2537346, y: 8.85075}
+        - {x: 0.25373077, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03008c41aea6de2d0800000000000000
+      internalID: -3247822202660716496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b15f2b7c9e916160800000000000000
+      internalID: 7017064089338728887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f333ace6f5ff0b0800000000000000
+      internalID: -5692726474529620106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bed4a0824d4286d0800000000000000
+      internalID: -2989742254599119180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163d3c993ca1e5560800000000000000
+      internalID: 7304305073042215777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: 5}
+        - {x: 9, y: 5}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f808c378d2cc7a550800000000000000
+      internalID: 6172126310249037967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: 5}
+        - {x: 0, y: 5}
+        - {x: 0, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745816385c70dbcc0800000000000000
+      internalID: -3693787574479780537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1747a39a96fb430800000000000000
+      internalID: 3800872786075087281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 9}
+        - {x: 0, y: 5}
+        - {x: 9, y: 5}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25b62f5067cba150800000000000000
+      internalID: 5885016554816845101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: 5}
+        - {x: -8.284615, y: 5.029854}
+        - {x: 9, y: 5.029854}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697af9d8d6bc0ab80800000000000000
+      internalID: -8385478834775939178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c2ab0d7bca051a0800000000000000
+      internalID: -6822763529985446805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd62e05afc223ce0800000000000000
+      internalID: -1427028678312563252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d048390e7ba99a0800000000000000
+      internalID: -6225461359710827235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05bd8062bab9fe70800000000000000
+      internalID: 9149549393266717963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 9}
+        - {x: -9, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202c6c335a00587b0800000000000000
+      internalID: -5222767483327954430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20153ff360c0fb5e0800000000000000
+      internalID: -1891780097490071294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c01e576e1035db70800000000000000
+      internalID: 8923091143845875912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392de99a84c514590800000000000000
+      internalID: -7691765221418937709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26b2639f12292b30800000000000000
+      internalID: 4262976041294935595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a4c17de1d3434b0800000000000000
+      internalID: -5461673245426300283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paleta_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21cad4396a9eb4f0800000000000000
+      internalID: -811041106231115475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

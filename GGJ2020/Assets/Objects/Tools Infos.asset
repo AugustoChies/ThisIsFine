@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da3616e834c27425d8f8de37ad4c54bc, type: 3}
+  m_Name: Tools Infos
+  m_EditorClassIdentifier: 
+  toolsInfos:
+  - type: 0
+    prefab: {fileID: 5314964895149635001, guid: 8268645381e0c41d3b205081e070bd06,
+      type: 3}
+    audios:
+    - {fileID: 8300000, guid: 533f0d9a554744603990e563d645f32e, type: 3}
+    fixLoops: 1
+  - type: 1
+    prefab: {fileID: 5582318119377055543, guid: 892116d083be6422087918820de08d0b,
+      type: 3}
+    audios:
+    - {fileID: 8300000, guid: 3a546995d02d2473898c7f0e5378c404, type: 3}
+    fixLoops: 1
+  - type: 2
+    prefab: {fileID: 4161060122442501511, guid: 66ae7bf2bb3fd463b83601996a8830c1,
+      type: 3}
+    audios:
+    - {fileID: 8300000, guid: b415b2866d11840efac933e6ed5df2bb, type: 3}
+    fixLoops: 1
+  - type: 3
+    prefab: {fileID: 5853517477667238292, guid: 7b1e2b29d969d49ca8aabf11ffb5fdb8,
+      type: 3}
+    audios:
+    - {fileID: 8300000, guid: 9d7fbe02073da4529872daee26f4deaf, type: 3}
+    - {fileID: 8300000, guid: 61fb6a669230948c3995defd42acef03, type: 3}
+    fixLoops: 4
+  - type: 4
+    prefab: {fileID: 3188975446003057804, guid: c8851e6c5e2904d2fb357739fad623c0,
+      type: 3}
+    audios:
+    - {fileID: 8300000, guid: 9a9a4708b5bc2464cb9045c769dd92ef, type: 3}
+    fixLoops: 1
