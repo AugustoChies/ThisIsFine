@@ -1,3 +1,6 @@
+# Enable line ending normalization to avoid conflicts
+* text=auto
+
 # Use LFS for large files
 # 3D models
 *.3dm filter=lfs diff=lfs merge=lfs -text
