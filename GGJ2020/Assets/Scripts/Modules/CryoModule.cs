@@ -19,8 +19,7 @@ public class CryoModule : Module
             countDownTimer -= Time.deltaTime;
             if (countDownTimer <= 0)
             {
-                globalInfo.gameStatus = GameStatus.Failed;
-                Debug.Log("Failed");
+                globalInfo.gameStatus = GameStatus.Failed;               
                 info.defeat = true;
             }
         }
