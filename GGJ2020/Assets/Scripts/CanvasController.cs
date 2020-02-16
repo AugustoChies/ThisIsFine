@@ -10,7 +10,7 @@ public class CanvasController : MonoBehaviour
 {
     public GlobalInfo info;
     public Image bar, ship;
-    public GameObject winScreen, defeatScreen;
+    public GameObject winScreen, defeatScreen, pauseScreen, infoScreen;
     public RectTransform beggining, end;
     public Image cryoIcon, gravityIcon, propulsionIcon, gpsIcon, shieldIcon, monitoringIcon;
     public Sprite fireSprite, virusSprite, circuitSprite, brokenSprite, energiaSprite;
@@ -75,6 +75,22 @@ public class CanvasController : MonoBehaviour
         if(info.progress >= 1)
         {
             Win();
+        }
+
+
+        if(!info.victory && !info.defeat && Input.GetKeyDown(KeyCode.Escape))
+        {
+            if(pauseScreen.activeSelf)
+            {
+                Time.timeScale = 1;
+                infoScreen.SetActive(false);
+                pauseScreen.SetActive(false);
+            }
+            else
+            {
+                Time.timeScale = 0;
+                pauseScreen.SetActive(true);
+            }
         }
 
 
@@ -170,5 +186,10 @@ public class CanvasController : MonoBehaviour
     public void ButtonRetry()
     {
         SceneManager.LoadScene("Stage" + info.currentStage);
+    }
+
+    public void ButtonInstruct()
+    {
+        infoScreen.SetActive(true);
     }
 }
